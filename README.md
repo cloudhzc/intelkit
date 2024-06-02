@@ -1,1 +1,1 @@
-# intelkit
+# Intelligent Toolkit

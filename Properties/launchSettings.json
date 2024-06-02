@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "intelkit (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "intelkit (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
